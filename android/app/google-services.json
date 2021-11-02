@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344308770360",
+    "project_id": "flutterday6",
+    "storage_bucket": "flutterday6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344308770360:android:814e3eb4b266027dcc28cd",
+        "android_client_info": {
+          "package_name": "com.example.firebaseday7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344308770360-n5msmr01485g2e1ri8mvj1mp2r9mb6si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeDJb01OkU2tFlOrGZk9jqv1WrOsSMCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344308770360-n5msmr01485g2e1ri8mvj1mp2r9mb6si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
